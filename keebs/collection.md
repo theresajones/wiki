@@ -22,7 +22,7 @@ Osume Little Ghost keycaps, NK Silk Milshake switches (factory lubed).
 
 ## Zoom75
 
-![Zoom75](Zoom75.jpg)
+![Zoom75](../assets/Zoom75.jpg)
 
 Milk Tea Essential Edition. Osume Dalgona keycaps, Prevail Epsilon switches (factory lubed), and a cute kitty gif.
 
