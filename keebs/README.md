@@ -7,6 +7,7 @@ My foray into the mechanical keyboard hobby started in 2021, when my kid asked f
 * [Switches](#switches)
 * [Other considerations](#other-considerations-and-modifications)
 * [Favorite resources](#favorite-resources)
+* [My collection](collection.md)
 
 ## Keycaps
 
