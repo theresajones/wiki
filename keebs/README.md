@@ -1,6 +1,6 @@
 # Mechanical Keyboards
 
-My foray into the mechanical keyboard hobby started in 2001, when my kid asked for a GMMK TKL for Christmas. Since then, I've learned a lot about keyboard modification and building. In this section, I'll share some of my knowledge and preferences, and show off some of my collection.
+My foray into the mechanical keyboard hobby started in 2021, when my kid asked for a GMMK TKL for Christmas. Since then, I've learned a lot about keyboard modification and building. In this section, I'll share some of my knowledge and preferences, and show off some of my collection.
 
 * [Keycaps](#keycaps)
 * [Layout](#keyboard-layouts)
