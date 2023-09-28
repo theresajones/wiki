@@ -9,7 +9,7 @@ My foray into the mechanical keyboard hobby started in 2001, when my kid asked f
 
 ## Keycaps
 
-Keycaps were my gateway into the hobby, as it it allowed me to take my keyboard (and, by extension, my office) from boring and drab to cute, or witchy, or silly, or stupid. With any mechanical keyboard, keycaps are by far the easist thing to customize. First, I explored keycaps by color and theme, then learned to choose by material and profile, which are significant factors in changing the sound and feel of the keyboard.
+Keycaps were my gateway into the hobby, as it allowed me to take my keyboard (and, by extension, my office) from boring and drab to cute, or witchy, or silly, or stupid. With any mechanical keyboard, keycaps are by far the easist thing to customize. First, I explored keycaps by color and theme, then learned to choose by material and profile, which are significant factors in changing the sound and feel of the keyboard.
 
 ### Cherry MX compatible
 
