@@ -37,3 +37,9 @@ SA Espresso keycaps, Gateron Cap Golden Brown switches.
 ![Cyberboard](../assets/Cyberboard.jpg)
 
 The most frivolous purchase of my life, but also the sexiest. Very Cool Very Ghoul keycaps, HKP Lucky Cat artisan, and Drop Holy Panda X switches.
+
+## GMMK Pro
+
+![GMMKProGreen](../assets/GMMKProGreen.jpg)
+
+ePBT Soju keycaps, and Zaku II switches.
