@@ -22,4 +22,5 @@ I'm based in California with my partner, two kids, two dogs, and two cats.
 
 # Table of contents
 
-[Apps](/apps/README.md)
+* [Mac/iOS Apps](apps/README.md)
+* [Mechanical Keyboards](keebs/README.md)
