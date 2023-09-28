@@ -6,6 +6,7 @@ My foray into the mechanical keyboard hobby started in 2001, when my kid asked f
 * [Layout](#keyboard-layouts)
 * [Switches](#switches)
 * [Other considerations](#other-considerations-and-modifications)
+* [Favorite resources](#favorite-resources)
 
 ## Keycaps
 
@@ -39,7 +40,7 @@ This was my next step in keyboard evolution. For a long time I was just using th
 * **65%**: Lacks a function row, but has dedicated arrows and is therefore doable. Still, I like having an F-row.
 * **75%**: My second favorite layout, as it includes arrows and an F-row, and sometimes even a knob or tiny screen. It's also efficient with the desk real estate.
 * **80%/TKL**: Not really my bag, as I don't use Home/End or Page Up/Down, and that area of the keyboard takes up too much space.
-* **96%**: My favorite layout, as it's a 75% with a squished number row. It's also becoming more popular to customize, so there are many more options for this now than in 2021.
+* **96%**: My favorite layout, as it's a 75% with a squished number pad. It's also becoming more popular to customize, so there are many more options for this now than in 2021.
 * **Full size**: The other extreme. It takes up way too much space and is also ugly.
 * **Alice/Ergo**: I know these come in different sizes and therefore layouts, but the split is generally not for me.
 
