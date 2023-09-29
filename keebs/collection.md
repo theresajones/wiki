@@ -48,7 +48,7 @@ Green top frame, ePBT Soju keycaps, and Zaku II switches.
 
 ![GMMKProBlue](../assets/GMMKProBlue.jpg)
 
-Blue top frame, ePBT Ramenstop keycaps, and Gateron Unicorn switches.
+Blue top frame, ePBT Ramenstop keycaps, Gateron Unicorn switches, HKP Lucky Cat artisan, and Sailor Moon artisan.
 
 ## Zoom65
 
