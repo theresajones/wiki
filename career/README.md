@@ -76,8 +76,17 @@ What I've listed so far are general recommendations when you're trying to get yo
 5. **Framemaker**. Framemaker is an old tech writing holy grail app, but is really only used in shops that produce print documentation. You *might* be asked about this depending on the industry, but in my opinion it seems to be on its way out.
 6. **Training**. This is more adjacent to **instructional design**, which is its own field and an entirely separate role, but pedagogy or creating training can easily be spun into technical writing experience if your moving into this field from teaching.  
 
+## My guiding principles
+
+Throughout my career, I've stuck to the following philosophies to guide my writing:
+
+* Whenever I start a new project, I remind myself how much I hate actually having to read the manual and write accordingly.
+* Therefore, I write for an annoyed audience. It doesn't matter who the user is or how technically inclined they are -- by the time they reach the documentation, they are at least *mildly* inconvenienced and annoyed. They need documentation that is easy to read and navigate.
+* I can't stress this enough -- presenting yourself as someone who's easy to work with will get you pretty far. Documentation is important, and there will be times where you have to push back or be a nag to get information that you need, but we work in supportive content and there's rarely a situation that warrants having to be a diva.
+
 ## Helpful resources
 
 * [WriteTheDocs](https://www.writethedocs.org/): A popular documentation community
 * [r/technicalwriting](http://reddit.com/r/technicalwriting): The subreddit has a lot of great answers to questions about the field
 * [I'd Rather Be Writing](https://idratherbewriting.com/learnapidoc/): An indispensible resource on API documentation
+* [Less is more: Minimalism in documentation](https://www.knowledgeowl.com/blog/posts/minimalism-documentation/): A helpful article on minimalism with links to other good resources
