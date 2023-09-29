@@ -27,7 +27,7 @@ For my favorite app extensions, [go here](extensions.md).
 * [Keyboard Maestro](https://www.keyboardmaestro.com/main/): An indispensible shortcut and automation app.
 * [Lunar](https://lunar.fyi/): An app to control monitor brightness.
 * [Mission Control Plus](https://www.fadel.io/missioncontrolplus): A small app that makes Mission Control easier to use.
-* [Only Switch](https://github.com/jacklandrin/OnlySwitch): A menu bar app for all the stuff that *should* be in Control Center but are not.
+* [Only Switch](https://github.com/jacklandrin/OnlySwitch): A menu bar app for all the things that *should* be in Control Center but are not.
 * [PastePal](https://onmyway133.com/pastepal/): My favorite clipboard manager. Syncs across all of your Apple devices.
 * [PopClip](https://www.popclip.app/): An extendable text tool that pops up whenever you select text.
 * [Power Menu](https://fiplab.com/apps/power-menu-for-mac): A handy Finder extension that provides customizable actions without getting in the way.
