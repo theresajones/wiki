@@ -42,4 +42,28 @@ The most frivolous purchase of my life, but also the sexiest. Very Cool Very Gho
 
 ![GMMKProGreen](../assets/GMMKProGreen.jpg)
 
-ePBT Soju keycaps, and Zaku II switches.
+Green top frame, ePBT Soju keycaps, and Zaku II switches.
+
+## GMMK Pro
+
+![GMMKProBlue](../assets/GMMKProBlue.jpg)
+
+Blue top frame, ePBT Ramenstop keycaps, and Gateron Unicorn switches.
+
+## Zoom65
+
+![Zoom65](../assets/Zoom65.jpg)
+
+Astrolokeys keycaps, Alpaca switches (lubed).
+
+## Kit Adam
+
+![Kit Adam](../assets/Adam.jpg)
+
+Magic Girl Millenium keycaps, Gateron Azure Dragon switches.
+
+## Akko Alice Pro
+
+![Akko Alice Pro](../assets/AkkoAlicePro.jpg)
+
+Nature Witch keycaps, Akko Crystal switches (factory lubed).
