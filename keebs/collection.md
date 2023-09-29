@@ -60,7 +60,7 @@ Astrolokeys keycaps, Alpaca switches (lubed).
 
 ![Kit Adam](../assets/Adam.jpg)
 
-Magic Girl Millenium keycaps, Gateron Azure Dragon switches.
+Magic Girl Millenium keycaps, Gateron Azure Dragon switches, custom blue and yellow LEGO plates.
 
 ## Akko Alice Pro
 
