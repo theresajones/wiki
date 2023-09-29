@@ -23,7 +23,7 @@ This is the process by which the keycaps get their colors or. Dye-sublimation is
 ### Keycap profiles
 I won't get into what each profile looks like here, as [Switch and Click already has a great comparison](https://switchandclick.com/ultimate-guide-to-picking-a-keycap-set-for-your-mechanical-keyboard/). I'll just go into my own experience and preferences. 
 
-  > **Cherry** profile keycaps are the most common and also my favorite. I've found that they feel the most natural and also sound the best, even for the lower-quality ones. They're slightly more difficult to match for 75%, 96%, or any other non-traditional layouts, but that usually just means three or four keys off to the side might be at wonky heights.
+> **Cherry** profile keycaps are the most common and also my favorite. I've found that they feel the most natural and also sound the best, even for the lower-quality ones. They're slightly more difficult to match for 75%, 96%, or any other non-traditional layouts, but that usually just means three or four keys off to the side might be at wonky heights.
 >
 > **DSA** profile is popular among the super cute designs by [Mintlodica](http://mintlodica.com) and [Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?defaultSelectionIds=966965). I love those sets, but I find the keycap profile is lighter weight and tends to sound a little more clacky and high-pitched. Not my favorite. However, because all rows are uniform, they are way easier to match profile for any keyboard layout.
 >
@@ -58,7 +58,7 @@ Linear switches have a smooth up-down feel, while tactiles have a noticeable bum
 
 If you work in an office and want to be courteous to your fellow coworkers, avoid clickies at all cost, which are usually marked as blue. They're not terrible, they're just loud and annoying for anyone not doing the typing. I personally don't mind using [Kailh Box White](https://www.amazon.com/Kailh-White-Mechanical-Keyboard-Switches/dp/B07885QL77/ref=sr_1_3?keywords=kailh+box+white&qid=1695932531&sr=8-3) every once in a while, but I work from my own home office.
 
-Silent linears and silent tactiles are similar to their non-silent counterparts, but have a component inside the switch that ensures it produces no noise. In my experience, all silent switches have felt mushy on the bottom-out. So I've mostly hated silent linears, but have found silent tactiles to be more tolerable, as they feel a little closer to Topre/rubber dome switches, such as the [Haimu Whisper](https://cannonkeys.com/products/haimu-whisper-silent-tactile-switch).
+Silent linears and silent tactiles are similar to their non-silent counterparts, but have a component inside the switch that ensures it produces no noise. In my experience, all silent switches have felt mushy on the bottom-out. So I've mostly hated silent linears, but have found silent tactiles to be more tolerable, such as the [Haimu Whisper](https://cannonkeys.com/products/haimu-whisper-silent-tactile-switch), as they feel a little closer to Topre/rubber dome switches.
 
 ### Spring weight
 
@@ -66,7 +66,7 @@ Admittedly I know the least about this part of the switch, as I know the switch 
 
 ### Lubing and filming
 
-Lubing will usually improve the sound and feel of switches (they will glide more easily and sound less scratchy), while filming switches will help reduce stem wobble. These are mods that require additional materials (stem lube, spring lube, and/or switch films), and popping open each switch. You can do any combination of these but it is generally very time consuming and rough on the fingers and eyes. I have only ever once filmed a set of switches and didn't notice mmuch of a difference. I have lubed several sets using [BadSeedTech's fast lubing method](https://youtu.be/jYiH6P53miM?si=wtKzgnZVPtWi0wbs), which has worked a charm. But these days, I generally buy switches that are factory pre-lubed. Factory pre-lubing is not always consistent, but I'd rather save the time.
+Lubing will usually improve the sound and feel of switches (they will glide more easily and sound less scratchy), while filming switches will help reduce stem wobble. These are mods that require additional materials (stem lube, spring lube, and/or switch films), and popping open each switch. You can do any combination of these but it is generally very time consuming and rough on the fingers and eyes. I have only ever once filmed a set of switches and didn't notice much of a difference. I have lubed several sets using [BadSeedTech's fast lubing method](https://youtu.be/jYiH6P53miM?si=wtKzgnZVPtWi0wbs), which has worked a charm. But these days, I generally buy switches that are factory pre-lubed. Factory pre-lubing is not always consistent, but I'd rather save the time.
 
 ## Other considerations and modifications
 
