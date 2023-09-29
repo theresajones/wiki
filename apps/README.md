@@ -2,10 +2,17 @@
 
 I have a very clear preference for apps that:
 
-1. Integrate and sync with Apple and/or Google services, rather than requiring sign-up to another service.
-2. Charge a one-time purchase (even if it's a separate purchase per platform and major upgrade), rather than a monthly subscription.
+1. Integrate and sync with Apple and/or Google services, or at least allow you to store your data locally, rather than requiring sign-up to another service.
+2. Charge a one-time fee (even if it's a separate purchase per platform and major upgrade), rather than a monthly subscription.
+3. Also have an iOS and/or iPadOS app.
+4. Allow you to download your data and easily import into other apps.
+5. Are not resource-heavy.
 
-That said, below is a list of all the apps I find worthy of sharing, with some notes attached.
+That said, I often have to use apps like Adobe Creative Cloud, Microsoft Office, and Madcap Flare for work. Industry standards, obviously, and they are best in their class, but that doesn't mean I enjoy using them. 
+
+Anyway, below is a list of all the *other* apps I find worthy of sharing, with some notes attached.
+
+For my favorite app extensions, [go here](extensions.md).
 
 ## Utilities
 * [Alfred](http://alfred.app): An extendable Spotlight replacement. My most used app.

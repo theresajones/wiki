@@ -23,15 +23,16 @@ This is the process by which the keycaps get their colors or. Dye-sublimation is
 ### Keycap profiles
 I won't get into what each profile looks like here, as [Switch and Click already has a great comparison](https://switchandclick.com/ultimate-guide-to-picking-a-keycap-set-for-your-mechanical-keyboard/). I'll just go into my own experience and preferences. 
 
-  **Cherry** profile keycaps are the most common and also my favorite. I've found that they feel the most natural and also sound the best, even for the lower-quality ones. They're slightly more difficult to match for 75%, 96%, or any other non-traditional layouts, but that usually just means three or four keys off to the side might be at wonky heights.
+  > **Cherry** profile keycaps are the most common and also my favorite. I've found that they feel the most natural and also sound the best, even for the lower-quality ones. They're slightly more difficult to match for 75%, 96%, or any other non-traditional layouts, but that usually just means three or four keys off to the side might be at wonky heights.
+>
+> **DSA** profile is popular among the super cute designs by [Mintlodica](http://mintlodica.com) and [Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?defaultSelectionIds=966965). I love those sets, but I find the keycap profile is lighter weight and tends to sound a little more clacky and high-pitched. Not my favorite. However, because all rows are uniform, they are way easier to match profile for any keyboard layout.
+>
+> **SA** profile are sculpted and tall, with R1 (the function row) being ridiculously tall. I include it here because some of my favorite color ways have come out on this profile (Espresso, Vilebloom, Black Panther), and I believe they're considered pretty premium, but I like them only slightly more than DSA keys.
+>
+> **Lofree Touch** is admittedly a weird inclusion here but I have exactly one kit from them (Graffiti), and it's one of my favorites. Lofree is the only company I've seen with this particular profile -- it's sculpted and very similar to the SA profile, but the bottom row curves back up. So both the function row and spacebar row are completely ridiculous heights, but the designs are great and the weight of the keycaps also feels premium.
+>
+> **XDA** keycaps seem to be the current fan favorite, but personally I hate them. The rows are uniform like DSAs, but all of the sets I've seen look cheaply made.
 
-  **DSA** profile is popular among the super cute designs by [Mintlodica](http://mintlodica.com) and [Astrolokeys](https://drop.com/buy/drop-dsa-astrolokeys-keycaps-by-sailorhg-and-cassidoo?defaultSelectionIds=966965). I love those sets, but I find the keycap profile is lighter weight and tends to sound a little more clacky and high-pitched. Not my favorite. However, because all rows are uniform, they are way easier to match profile for any keyboard layout.
-
-  **SA** profile are sculpted and tall, with R1 (the function row) being ridiculously tall. I include it here because some of my favorite color ways have come out on this profile (Espresso, Vilebloom, Black Panther), and I believe they're considered pretty premium, but I like them only slightly more than DSA keys.
-
-  **Lofree Touch** is admittedly a weird inclusion here but I have exactly one kit from them (Graffiti), and it's one of my favorites. Lofree is the only company I've seen with this particular profile -- it's sculpted and very similar to the SA profile, but the bottom row curves back up. So both the function row and spacebar row are completely ridiculous heights, but the designs are great and the weight of the keycaps also feels premium.
-
-  **XDA** keycaps seem to be the current fan favorite, but personally I hate them. The rows are uniform like DSAs, but all of the sets I've seen look cheaply made.
 
 ## Keyboard layouts
 
