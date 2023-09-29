@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "keebs/collection.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keebs/collection.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "keebs/collection.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "keebs/collection.md"
+                "file": "README.md"
               }
             }
           },
@@ -136,9 +136,17 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "cc60abc94a356911",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,6 +165,7 @@
   },
   "active": "5d2c2a3fd9dd4665",
   "lastOpenFiles": [
+    "keebs/collection.md",
     "wiki/keebs/collection.md",
     "wiki/keebs/README.md",
     "wiki/keebs",
