@@ -82,7 +82,8 @@ Throughout my career, I've stuck to the following philosophies to guide my writi
 
 * Whenever I start a new project, I remind myself how much I hate actually having to read the manual and write accordingly.
 * Therefore, I write for an annoyed audience. It doesn't matter who the user is or how technically inclined they are -- by the time they reach the documentation, they are at least *mildly* inconvenienced and annoyed. They need documentation that is easy to read and navigate.
-* I can't stress this enough -- presenting yourself as someone who's easy to work with will get you pretty far. Documentation is important, and there will be times where you have to push back or be a nag to get information that you need, but we work in supportive content and there's rarely a situation that warrants having to be a diva.
+* I can't stress this enough -- presenting yourself as someone who's easy to work with and eager to help will get you pretty far. Documentation is important, and there will be times where you have to push back or be a nag to get information that you need, but we work in supportive content and there's rarely a situation that warrants having to be a diva.
+* Remember that we're all just advanced monkeys on a spinning rock in space. Your coworkers, your customers, and the people you buy your lunch from are all just human beings who deserve kindness. Take your work seriously but remember it's never *that serious*.
 
 ## Helpful resources
 
