@@ -1,4 +1,4 @@
-# Technical Writing and General Career Advice
+# Technical Writing
 
 I've had a long enough career at this point to be able to identify some patterns and have some wisdom to impart. If you're interested in technical writing as a career, here are my best pieces of advice. You'll find some helpful keywords to search for in **bold**.
 
