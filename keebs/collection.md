@@ -12,7 +12,7 @@ My Filipino culture keyboard that is more of an art piece than a daily driver. K
 
 ![QK100](../assets/QK100.jpg)
 
-My Halloween slasher build. KDS Splatter keycaps, Cherry MX Black Clear-top switches (Nixies, hand lubed), DSS Hail Satan novelties, and a Ghostface gif.
+My Halloween slasher build. KDS Splatter keycaps, Cherry MX Black Clear-top switches (Nixies, hand lubed), DSS Hail Satan novelties, and a Ghostface gif. 
 
 ## Qwertykeys QK75
 
