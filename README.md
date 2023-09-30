@@ -12,11 +12,12 @@ I'm based in California with my partner, two kids, two dogs, and two cats.
 * 2022 M2 MacBook Pro, Sonoma - work use
 * iPad Mini, 6th generation, iOS 17
 * iPhone 13 Pro, iOS 17
+* Apple Watch Series 8, watchOS 10
 
 #### Other devices
-* [Hisense Touch](https://www.aliexpress.us/item/3256803460131001.html?spm=a2g0o.order_list.order_list_main.11.5bf51802QsP1LM&gatewayAdapt=glo2usa)
-* [Onyx Boox Nova3](https://onyxboox.com/boox_nova3)
-* [Onyx Boox Note Air](https://onyxboox.com/boox_noteair)
+* [Hisense Touch](https://www.aliexpress.us/item/3256803460131001.html?spm=a2g0o.order_list.order_list_main.11.5bf51802QsP1LM&gatewayAdapt=glo2usa): mobile phone-sized eInk reader
+* [Onyx Boox Nova3](https://onyxboox.com/boox_nova3): 7" eInk reader and notebook
+* [Onyx Boox Note Air](https://onyxboox.com/boox_noteair): 10" eInk reader and notebook
 * [Kindle Paperwhite 2018](https://www.amazon.com/gp/product/B075QRWPPH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Kindle Oasis](https://www.amazon.com/gp/product/B07KR2N2GF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 

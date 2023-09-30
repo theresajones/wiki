@@ -48,7 +48,7 @@ For my favorite app extensions, [go here](extensions.md).
 * [Text Workflow](https://www.gtrigonakis.com/textworkflow): A text transformation app.
 
 ## Writing and note-taking
-* [DayOne](http://dayoneapp.com): The journaling app I keep going back to.
+* [DayOne](http://dayoneapp.com): The journaling app I keep going back to, even with the subscription model.
 * [Goodnotes](https://www.goodnotes.com/): The app I settled on for use with Apple Pencil.
 * [Hookmark](https://hookproductivity.com/): Contextual link creator. Super helpful for research linking and notetaking.
 * [Obsidian](https://obsidian.md/): An "everything writing" app. It's suitable for all sorts of notetaking and writing because it supports tons of extensions.
@@ -61,7 +61,7 @@ For my favorite app extensions, [go here](extensions.md).
 * [Calibre](https://calibre-ebook.com/): The eBook library I've been using for years. I keep the file system on Dropbox so I can download from any of my devices, while Calibre manages the metadata and conversion.
 * [Downie 4](https://software.charliemonroe.net/downie/): A handy media downloader.
 * [Friendly Streaming Browser](https://apps.apple.com/na/app/friendly-streaming-browser/id553245401?mt=12): A separate browser for streaming services that blocks ads.
-* [Mela](https://mela.recipes/): A recipe manager for Mac and iOS. I used and loved [Paprika](https://www.paprikaapp.com/) for years (and it works on Windows and Android), but the Mela UI is just more polished and has all the same features.
+* [Mela](https://mela.recipes/): A recipe manager for Mac and iOS. I used and loved [Paprika](https://www.paprikaapp.com/) for years (the devs have always been very responsive, and it works on Windows and Android), but the Mela UI is just more polished and has all the same features.
 * [Parcel](https://parcelapp.net/): The best package tracker on Mac. It has useful widgets and the most amount of carriers I've seen.
 * [Parallels MAS edition](https://apps.apple.com/dk/app/parallels-desktop/id1085114709?mt=12): A virtual machine app I really only use for Windows-only keyboard firmware. The Mac App Store version seems to work faster and installs less bloatware than the original version.
 * [Transmission](https://transmissionbt.com/): The only Bittorrent client I've ever used.
