@@ -1,6 +1,6 @@
 # Mechanical Keyboards
 
-My foray into the mechanical keyboard hobby started in 2021, when my kid asked for a GMMK TKL for Christmas. Since then, I've learned a lot about keyboard modification and building. In this section, I'll share some of my knowledge and preferences, and show off some of my collection.
+My foray into the mechanical keyboard hobby started in 2021, when my kid asked for a GMMK TKL for Christmas. Since then, I've learned a lot about keyboard modification and building. In this section, I'll share some of my knowledge and preferences, and show off some of my collection. Note that everything in this hobby is highly subjective and my preferences might not necessarily be your preferences.
 
 * [Keycaps](#keycaps)
 * [Layout](#keyboard-layouts)
@@ -29,7 +29,7 @@ I won't get into what each profile looks like here, as [Switch and Click already
 >
 > **SA** profile are sculpted and tall, with R1 (the function row) being ridiculously tall. I include it here because some of my favorite color ways have come out on this profile (Espresso, Vilebloom, Black Panther), and I believe they're considered pretty premium, but I like them only slightly more than DSA keys.
 >
-> **Lofree Touch** is admittedly a weird inclusion here but I have exactly one kit from them (Graffiti), and it's one of my favorites. Lofree is the only company I've seen with this particular profile -- it's sculpted and very similar to the SA profile, but the bottom row curves back up. So both the function row and spacebar row are completely ridiculous heights, but the designs are great and the weight of the keycaps also feels premium.
+> **Lofree Touch** is admittedly a weird inclusion here but I have exactly one kit from them (Graffiti), and it's one of my favorites. Lofree is the only company I've seen with this particular profile -- it's sculpted and very similar to the SA profile, but the bottom row curves back up. So both the function row and spacebar row are completely ridiculous heights, but the designs are great and the weight of the keycaps also feels premium and sounds incredible.
 >
 > **XDA** keycaps seem to be the current fan favorite, but personally I hate them. The rows are uniform like DSAs, but all of the sets I've seen look cheaply made.
 
