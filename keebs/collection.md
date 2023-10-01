@@ -54,7 +54,7 @@ Blue top frame, ePBT Ramenstop keycaps, Gateron Unicorn switches, HKP Lucky Cat 
 
 ![Zoom65](../assets/Zoom65.jpg)
 
-Astrolokeys keycaps, Alpaca switches (lubed).
+Astrolokeys keycaps, Alpaca switches (hand lubed).
 
 ## Kit Adam
 
@@ -62,8 +62,26 @@ Astrolokeys keycaps, Alpaca switches (lubed).
 
 Magic Girl Millenium keycaps, Gateron Azure Dragon switches, custom blue and yellow LEGO plates.
 
+## RK100
+
+![RK100](../assets/RK100.jpg)
+
+Lofree Touch Graffiti keycaps, Glorious Lynx switches (factory lubed).
+
+## NK65
+
+![NK65](../assets/NK65.jpg)
+
+ePBT Witch keycaps, Akko Jelly Black switches (hand lubed).
+
+## Candybar
+
+![Candybar](../assets/Candybar.jpg)
+
+Mintlodica Magic Girl keycaps, C3Equalz Banana Split switches (hand lubed). This build is has case ping that I haven't been able to get rid of, and tbh I'm not big on the layout, but it's pretty and weird and I can't seem to let it go.
+
 ## Akko Alice Pro
 
 ![Akko Alice Pro](../assets/AkkoAlicePro.jpg)
 
-Nature Witch keycaps, Akko Crystal switches (factory lubed).
+Nature Witch keycaps, Akko Crystal switches (factory lubed). Another layout that's not really my bag, but I do love the way this board sounds. 
