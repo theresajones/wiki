@@ -1,4 +1,4 @@
-# Apps
+# Apps (Mac and iOS)
 
 I have a very clear preference for apps that:
 
