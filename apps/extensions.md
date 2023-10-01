@@ -13,16 +13,16 @@ A list of my favorite extensions, workflows, plugins, and macros, sorted by app.
 
 ## Calibre
 
-* [ACSM Input](https://github.com/Leseratte10/acsm-calibre-plugin): Allows Calibre to ingest ADE files.
+* [ACSM Input](https://github.com/Leseratte10/acsm-calibre-plugin): Allows Calibre to process ADE files.
 * [DeDRM](https://github.com/noDRM/DeDRM_tools): I don't need to explain this.
 
 ## Keyboard Maestro
 
-The macros I have in KM don't lend themselves well to linking out because I created most of them myself and they're specific to my setup. Still, I want to share some of my favorite hotkeys:
+The KM macros I se the most are ones I created myself and they're specific to my setup. Still, I want to share some of my favorite hotkeys:
 
-* Move windows around to various monitors, or various halves of monitors (upper, lower, left, or right)
+* Move windows around to various displays, or various halves of displays (upper, lower, left, or right)
 * Refresh pivot tables in Numbers
-* Move current tab of a Chromium or Safari browser to a different monitor
+* Move current tab of a Chromium or Safari browser to a different display
 * Toggle system dark and light mode
 
 ## Obsidian

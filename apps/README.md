@@ -29,11 +29,10 @@ For my favorite app extensions, [go here](extensions.md).
 * [Mission Control Plus](https://www.fadel.io/missioncontrolplus): A small app that makes Mission Control easier to use.
 * [Only Switch](https://github.com/jacklandrin/OnlySwitch): A menu bar app for all the things that *should* be in Control Center but are not.
 * [PastePal](https://onmyway133.com/pastepal/): My favorite clipboard manager. Syncs across all of your Apple devices.
-* [PopClip](https://www.popclip.app/): An extendable text tool that pops up whenever you select text.
+* [PopClip](https://www.popclip.app/): An extremely lightweight, extendable tool that pops up whenever you select text.
 * [Power Menu](https://fiplab.com/apps/power-menu-for-mac): A handy Finder extension that provides customizable actions without getting in the way.
 * [QSpacePro](https://qspace.awehunt.com/en-us/index.html): A decent Finder replacement that can also be used as an FTP client.
 * [Shifty](https://shifty.natethompson.io/en/): An easy-to-customize Night Shift controller.
-* [Shottr](https://shottr.cc/): A lightweight screenshot annotator app that is also OCR-capable.
 * [Synergy](https://symless.com/synergy): A software KVM solution. It's fallen out of favor since Apple introduced Universal Control, but is good to have as a backup.
 
 ## Productivity
@@ -43,6 +42,7 @@ For my favorite app extensions, [go here](extensions.md).
 * [DEVONthink Pro 3](http://devontechnologies.com): A document keeper and web clipper that makes all of your local content more searchable.
 * [Focus](https://heyfocus.com/): A simple distraction blocker that works across all browsers and apps.
 * [HazeOver](https://hazeover.com/): An easy-to-customize window dimmer.
+* [Shottr](https://shottr.cc/): A lightweight screenshot annotator app that is also OCR-capable.
 * [Soulver](https://soulver.app/): The best calculator notepad app ever.
 * [SyncTime](https://desairem.com/wordpress/synctime/): An automated folder sync app.
 * [Text Workflow](https://www.gtrigonakis.com/textworkflow): A text transformation app.
