@@ -9,6 +9,7 @@ A list of my favorite extensions, workflows, plugins, and macros, sorted by app.
 * [Calculate Anything](https://alfred.app/workflows/biatidigital/calculate-anything/): Do calculations and conversions right from Alfred.
 * [Password Generator](https://alfred.app/workflows/fedecalendino/password-generator/): Generates secure passwords quickly.
 * [Shimmering Obsidian](https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/): Easily search your Obsidian vault.
+* [Simple 2fa Paste](https://alfred.app/workflows/thebitguru/simple-2fa-paste/): Copies and pastes the latest 2fa SMS.
 * [System Settings](https://alfred.app/workflows/alfredapp/system-settings/): Open specific system settings panes.
 
 ## Calibre
