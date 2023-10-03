@@ -78,7 +78,7 @@ ePBT Witch keycaps, Akko Jelly Black switches (hand lubed).
 
 ![Candybar](../assets/Candybar.jpg)
 
-Mintlodica Magic Girl keycaps, C3Equalz Banana Split switches (hand lubed). This build is has case ping that I haven't been able to get rid of, and tbh I'm not big on the layout, but it's pretty and weird and I can't seem to let it go.
+Mintlodica Magic Girl keycaps, C3Equalz Banana Split switches (hand lubed). This build  has serious case ping, but that was significantly improved with a silicone pour. Tbh, I'm not big on the layout, but it's pretty and weird and I can't seem to let it go.
 
 ## Akko Alice Pro
 
