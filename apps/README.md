@@ -59,7 +59,7 @@ For my favorite app extensions, [go here](extensions.md).
 * [Calibre](https://calibre-ebook.com/): The eBook library I've been using for years. I keep the file system on Dropbox so I can download from any of my devices, while Calibre manages the metadata and conversion.
 * [Downie 4](https://software.charliemonroe.net/downie/): A handy media downloader.
 * [Friendly Streaming Browser](https://apps.apple.com/na/app/friendly-streaming-browser/id553245401?mt=12): A separate browser for streaming services that blocks ads.
-* [Mela](https://mela.recipes/): A recipe manager for Mac and iOS. I used and loved [Paprika](https://www.paprikaapp.com/) for years (the devs have always been very responsive, and it works on Windows and Android), but the Mela UI is just more polished and has all the same features.
+* [Mela](https://mela.recipes/): A beautiful recipe manager for Mac and iOS.
 * [Parcel](https://parcelapp.net/): The best package tracker on Mac. It has useful widgets and the most amount of carriers I've seen.
 * [Parallels MAS edition](https://apps.apple.com/dk/app/parallels-desktop/id1085114709?mt=12): A virtual machine app I really only use for Windows-only keyboard firmware. The Mac App Store version seems to work faster and installs less bloatware than the original version.
 * [Transmission](https://transmissionbt.com/): The only Bittorrent client I've ever used.
@@ -71,5 +71,6 @@ I have a few beloved apps that I've gotten rid of due to changes in my workflow 
 * [BetterTouchTool](https://folivora.ai/): A Swiss army knife type of app that does shortcuts, automations, screenshots, touchpad and mouse actions, and touch bar customization really well. I abandoned this in favor of native macOS customization, just to keep things simpler.
 * [Karabiner Elements](https://karabiner-elements.pqrs.org/): A keyboard customizer for keyboards not available on QMK/VIA. I also abandoned it in favor of native macOS keyboard customization.
 * [Only Switch](https://github.com/jacklandrin/OnlySwitch): A menu bar app for all the things that *should* be in Control Center but are not. I stopped using this when Apple improved the widgets with Sonoma, but it might be useful if you're on an older OS.
+* [Paprika](https://www.paprikaapp.com/): I used and loved this app for years (the devs have always been very responsive, and it works on Windows and Android), but the Mela UI is just more polished and has all the same features.
 * [QSpacePro](https://qspace.awehunt.com/en-us/index.html): A decent Finder replacement that can also be used as an FTP client.
 * [Synergy](https://symless.com/synergy): A software KVM solution. It's fallen out of favor since Apple introduced Universal Control, but I used it whenever Universal Control seemed unstable.
