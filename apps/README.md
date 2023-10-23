@@ -19,6 +19,7 @@ For my favorite app extensions, [go here](extensions.md).
 * [Alfred](http://alfred.app): An extendable Spotlight replacement. My most used app.
 * [Alt-Tab](https://alt-tab-macos.netlify.app/): A lightweight window switcher that shows screenshots.
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12): THE keep-awake utility.
+* [BetterTouchTool](https://folivora.ai/): A Swiss army knife type of app that does shortcuts, automations, screenshots, touchpad and mouse actions, and touch bar customization really well. I try to use native macOS customization wherever possible, but this handles everything outside of that.
 * [Brave](http://brave.com): I'm back to using Safari as default, but Brave has completely replaced Chrome as backup.
 * [Dropover](https://dropoverapp.com/): A great drag and drop tool.
 * [Hazel](https://www.noodlesoft.com/): Automated file processing.
@@ -68,9 +69,8 @@ For my favorite app extensions, [go here](extensions.md).
 
 I have a few beloved apps that I've gotten rid of due to changes in my workflow or in the interest of simplicity. They're still useful and I can vouch for them; they just no longer served their purpose for me.
 
-* [BetterTouchTool](https://folivora.ai/): A Swiss army knife type of app that does shortcuts, automations, screenshots, touchpad and mouse actions, and touch bar customization really well. I abandoned this in favor of native macOS customization, just to keep things simpler.
-* [Karabiner Elements](https://karabiner-elements.pqrs.org/): A keyboard customizer for keyboards not available on QMK/VIA. I also abandoned it in favor of native macOS keyboard customization.
+* [Karabiner Elements](https://karabiner-elements.pqrs.org/): A keyboard customizer for keyboards not available on QMK/VIA. I abandoned it in favor of native macOS keyboard customization and BTT.
 * [Only Switch](https://github.com/jacklandrin/OnlySwitch): A menu bar app for all the things that *should* be in Control Center but are not. I stopped using this when Apple improved the widgets with Sonoma, but it might be useful if you're on an older OS.
-* [Paprika](https://www.paprikaapp.com/): I used and loved this app for years (the devs have always been very responsive, and it works on Windows and Android), but the Mela UI is just more polished and has all the same features.
+* [Paprika](https://www.paprikaapp.com/): I used and loved this app for years (the devs have always been very responsive, and it works on Windows and Android).
 * [QSpacePro](https://qspace.awehunt.com/en-us/index.html): A decent Finder replacement that can also be used as an FTP client.
 * [Synergy](https://symless.com/synergy): A software KVM solution. It's fallen out of favor since Apple introduced Universal Control, but I used it whenever Universal Control seemed unstable.
