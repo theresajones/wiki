@@ -1,6 +1,7 @@
 .DS_Store
 .obsidian
 .vscode/settings.json
+wiki.code-workspace
 
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
